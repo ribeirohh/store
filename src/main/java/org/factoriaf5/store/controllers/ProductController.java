@@ -1,4 +1,4 @@
-package org.factoriaf5.store.controllers; gi
+package org.factoriaf5.store.controllers;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
@@ -13,7 +13,7 @@ public class ProductController {
                 return greeting;
         };
 
-products
+
 };
 
 
