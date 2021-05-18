@@ -1,13 +1,13 @@
-package com.example.store;
+package org.factoriaf5.store;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Factoriaf5Application {
+public class HttpStoreApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Factoriaf5Application.class, args);
+        SpringApplication.run(HttpStoreApplication.class, args);
     }
 
 }
